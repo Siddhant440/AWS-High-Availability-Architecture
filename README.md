@@ -1,4 +1,4 @@
-# AWS Highly Available Web Application
+# AWS High Availability Architecture
 
 A highly available web application deployed on AWS using Amazon VPC, EC2, and an Application Load Balancer (ALB) across multiple Availability Zones.
 
